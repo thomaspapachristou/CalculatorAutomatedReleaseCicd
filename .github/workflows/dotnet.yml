@@ -36,3 +36,5 @@ jobs:
             Ton KJ de poche
           draft: false
           prerelease: false
+          files: |
+            ClassLibrary.dll
